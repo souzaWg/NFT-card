@@ -194,14 +194,14 @@ body,html{
 
 @media screen and (max-width:400px) {
     .image-content .overlay{
-        height:17.22rem;
+        height:51.5%;
     }
     .image-content .view{
         top: 24%;
         left: 41%;
     }
     .card-text{
-        margin-top: 6rem;
+        margin-top: 7rem;
     }
     .creator{
         margin-top: .8rem;
